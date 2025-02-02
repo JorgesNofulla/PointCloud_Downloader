@@ -14,7 +14,7 @@ This repository presents a Python script designed to interactively select geogra
 Python Version: 3.11.9
 Required Libraries: ipyleaflet, pyproj, ipywidgets, geopandas, shapely, requests, laspy, numpy, pathlib
 
-## MADNATORY FILE
+## MANDATORY FILE
 Link to download the list of AHN tiles:
 https://static.fwrite.org/2023/01/AHN_subunits_GeoTiles.zip
 
